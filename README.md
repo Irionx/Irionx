@@ -1,6 +1,5 @@
 #  About Me:
  I’m currently working on a CRM with a friend and this README for my profile :P
- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 # Stack:
