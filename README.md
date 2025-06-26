@@ -53,7 +53,7 @@ Obsessed with building futuristic systems, pushing humanity’s digital frontier
 
 ## 🛰️ Subspace Signals Received
 
-[![](https://visitcount.itsvg.in/api?id=Irionx&icon=6&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://komarev.com/ghpvc/?username=Irionx&color=blue)
 
 > *"Make it so."* – You, after clicking the green button.
 
