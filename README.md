@@ -1,25 +1,48 @@
-#  About Me:
- I’m currently working on a CRM with a friend and also in GIA international as frontEnd dev
+# 🖖 Welcome to the Personal Log of **Irionx**
 
-# Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-<!--# 📊 GitHub Stats:
- ![](https://github-readme-stats.vercel.app/api?username=Irionx&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Irionx&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Irionx&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+> *"The frontier pushes back, unless someone dares to code forward."* – Captain Irionx, Stardate 77777.7
 
-## Trophies
+![Starfleet Command](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Starfleet_Command_logo.svg/320px-Starfleet_Command_logo.svg.png)
+
+## 🪐 About Me
+
+👨‍🚀 I'm currently navigating the digital quadrant as a **FrontEnd Dev at GIA International**, while also co-piloting a CRM startup with a fellow officer.
+
+When I'm not on duty debugging deep-space anomalies (or Angular modules), I dream of warp drives, AI companions, and star-mining drones. 🛰️
+
+## 🛠️ Main Technologies in my Starfleet Console
+
+| Technology | Status |
+|-----------|--------|
+| ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) | 🔥 Warp-Ready |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) | 🧠 Vulcan Logic Enabled |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) | 🌐 Stable Subspace |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) | 🧪 Science Division |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) | 🟢 Green-Blooded Approved |
+| ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) | ⚗️ Forensic Backend |
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) | ☁️ Federation Cloud |
+
+## 📈 Mission Stats
+
+> All metrics logged by the ship's computer and occasionally verified by Spock.
+
 ![](https://github-profile-trophy.vercel.app/?username=Irionx&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### Random Dev Quote
+---
+
+### 👽 Quote of the Cycle
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+> “Sometimes a feeling is all we humans have to go on.” – James T. Kirk
 
 ---
+
+### 🛰️ Subspace Signals Received
 [![](https://visitcount.itsvg.in/api?id=Irionx&icon=6&color=0)](https://visitcount.itsvg.in)
 
+> *"Make it so."* – You, after clicking the green button.
 
+---
 
+### 🧑‍🚀 Fun Fact
+This README was compiled with the assistance of **Lieutenant Commander Jadzia Dax**, science officer aboard Deep Space 9. All systems nominal.
