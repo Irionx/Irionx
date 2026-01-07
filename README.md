@@ -1,10 +1,6 @@
 # 🖖 Welcome to the Personal Log of **Irionx**
 
 > *"The frontier pushes back, unless someone dares to code forward."* – Captain Irionx, Stardate 77777.7
-
-![Star Trek Starfleet Command Logo](https://www.kindpng.com/picc/m/18-183540_star-trek-starfleet-command-logo-hd-png-download.png)
-
-
 ---
 
 ## 🪐 About Me
